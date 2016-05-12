@@ -9,6 +9,7 @@ import { intlShape, injectIntl, FormattedMessage } from 'react-intl'
 // import Navigation from 'react-toolbox/lib/navigation'
 
 import AppBar from '../_ui/appBar/AppBar'
+import Tabs from '../_ui/tabs/Tabs'
 
 // Component
 import './appHeader.less'
